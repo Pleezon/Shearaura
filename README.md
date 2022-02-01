@@ -1,5 +1,5 @@
 # Shearaura
-LabyMod addon for automatically shearing sheep on the Minecraft-Server GrieferGames.net
+LabyMod 1.8.9 addon for automatically shearing sheep on the Minecraft-Server GrieferGames.net
 ### Disclaimer
 I do not take any responsibility regarding the functionality and / or damage caused by this software. Use at own risk! 
 Contact me or open an issue for any inquiries regarding features or bugs.

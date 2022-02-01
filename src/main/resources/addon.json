@@ -1,0 +1,10 @@
+
+{
+  "uuid": "%uuid%",
+  "name": "Shearaura",
+  "mainClass": "de.techgamez.pleezon.Main",
+  "description": "Beta",
+  "version": 2.0,
+  "author": "Pleezon",
+  "category": 1
+}
